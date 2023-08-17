@@ -20,3 +20,9 @@ F.e. you can use [The old reader](https://theoldreader.com/) as an aggregator an
 * [PRs](https://rsshub.app/github/pull/neos/flow-development-collection)
 * [Issues](https://rsshub.app/github/issue/neos/flow-development-collection/all)
 * [Commits](https://github.com/neos/flow-development-collection/commits.atom)
+
+## Neos UI
+
+* [PRs](https://rsshub.app/github/pull/neos/neos-ui)
+* [Issues](https://rsshub.app/github/issue/neos/neos-ui/all)
+* [Commits](https://github.com/neos/neos-ui/commits.atom)
