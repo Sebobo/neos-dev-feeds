@@ -7,6 +7,7 @@ F.e. you can use [The old reader](https://theoldreader.com/) as an aggregator an
 
 * [Latest topics](https://discuss.neos.io/latest.rss)
 * [Blog posts](https://www.neos.io/rss.xml)
+* [New package releases](https://neos.io/download-and-extend/packages.atom)
 
 ## Neos development collection
 
